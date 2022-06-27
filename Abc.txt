@@ -1,0 +1,7 @@
+Heroku doesnt provide mongoDB as a database.
+heroku is managed but NOSQL database is not these we have to purchase database from mongoDB 
+official website, it will cost us $59/month
+but in case of digital ocean they provide us fully manged MongoDb databse at cost of $15 permonth
+digital ocean sharedhosting droplet cost us $5 and dedicated server cost up to $40
+one difference in both tha we have to manage our backend by own in digitalocean but in heroku
+they will manage.
